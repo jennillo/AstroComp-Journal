@@ -10,5 +10,4 @@ A collection of my projects and experiences in astronomy, coding, and problem-so
 - Markdown for documentation  
 
 ## Connect with Me  
-- GitHub: @jennillo  
-- Email: jennifer.illona07@gmail.com  
+- GitHub: @jennillo
