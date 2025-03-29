@@ -12,7 +12,7 @@ A collection of my projects and experiences in **astronomy, coding, and problem-
 ## More About Me  
 
 ### Achievements  
-- **3rd Place** - Competitive Programming ITS 2024   
+- **3rd Place** - MageX Competitive Programming ITS 2024   
 
 ### Currently Learning  
 - CS50 by Harvard  
