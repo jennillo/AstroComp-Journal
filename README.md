@@ -12,6 +12,11 @@ A collection of my projects and experiences in **astronomy, coding, and problem-
 ## More About Me  
 
 ### Achievements  
+- **Honorable Mention** - Indonesian National Olympiad in Informatics 2025
+- **2nd Place** - ITCC Competitive Programming UNUD 2025
+- **Finalist** - Informatics, Mathematics, and Physics Annual Competition ITB 2025
+- **Finalist** - ELECTRA 14 ITS 2025
+- **Finalist** - Informatics Competition FIND IT 2025
 - **3rd Place** - MageX Competitive Programming ITS 2024   
 
 ### Currently Learning  
