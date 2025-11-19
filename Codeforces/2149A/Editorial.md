@@ -7,5 +7,5 @@ To ensure that the product $a_1 \cdot a_2 \cdot ... \cdot a_N > 0$, is positive 
 
 ## Solution
 $$
-2 * (parity of the number negative ones) + (number of zeros)
+2 * (\text{parity of number negative ones}) + (\text{number of zeros})
 $$
