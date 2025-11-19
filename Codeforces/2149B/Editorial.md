@@ -1,7 +1,7 @@
 ### Problem
 https://codeforces.com/contest/2149/problem/B
 <details>
-  <summary>Observation</summary>
+  <summary>Observations</summary>
 You have to make the difference between all pairs minimum. Try to use greedy!
 </details>
 <details>
