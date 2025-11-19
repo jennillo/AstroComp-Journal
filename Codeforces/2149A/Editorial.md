@@ -9,5 +9,7 @@ Also, the number of $-1$ values must be even.
 <details>
   <summary>Solution</summary>
 $2 \cdot (\text{parity of the number of -1s}) + (\text{number of zeros})$
-Time Complexity : O(1)
 </details>
+
+### Time Complexity
+O(1)
