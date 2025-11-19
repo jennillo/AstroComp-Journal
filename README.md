@@ -2,7 +2,7 @@
 A collection of my coding solutions, training notes, and problem-solving progress as I grow in the world of competitive programming.
 
 ## What You'll Find Here  
-- Solutions to contests (Codeforces, AtCoder, etc.)
+- Solutions to contests (Codeforces, CSES, etc.)
 - Notes on algorithms and data structures
 - Templates and snippets
 - Personal progress and training logs
