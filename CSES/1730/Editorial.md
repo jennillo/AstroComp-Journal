@@ -10,4 +10,4 @@ To do that, we calculate $x$ the xor sum of heap sizes. If $x = 0$, then the fir
 </details>
 
 ### Time Complexity
-O(N)
+$O(N)$
