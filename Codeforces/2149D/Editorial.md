@@ -11,4 +11,4 @@ Let's store all the positions of character $a$ in a vector. Similarly, for chara
 </details>
 
 ### Time Complexity
-O(N)
+$O(N)$
