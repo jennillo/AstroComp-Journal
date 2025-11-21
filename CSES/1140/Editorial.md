@@ -10,4 +10,4 @@ Let us define $dp[i]$ as the maximum number of projects that can be taken from i
 </details>
 
 ### Time Complexity
-O(N log N)
+$O(N \text{ log } N)$
