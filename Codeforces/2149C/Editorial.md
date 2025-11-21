@@ -10,4 +10,4 @@ If the number $k$ appears then we have to replace it with another number either 
 </details>
 
 ### Time Complexity
-O(N log N)
+$O(N \text{ log } N)$
