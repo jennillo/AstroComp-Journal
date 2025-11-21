@@ -10,4 +10,4 @@ Iterate $i$ from $1$ to $N$. First, let's define $x$ as each elements of $p$. Ch
 </details>
 
 ### Time Complexity
-O(Nk)
+$O(N \cdot k)$
