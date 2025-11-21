@@ -10,4 +10,4 @@ Use sliding window with two variables initialize to $0$. If sum of range $[l, r]
 </details>
 
 ### Time Complexity
-O(N)
+$O(N)$
