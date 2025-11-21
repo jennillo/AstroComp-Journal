@@ -15,4 +15,4 @@ Do BFS from first node (the port) and save the maximum value for each $k$
 </details>
 
 ### Time Complexity
-O(N + M)
+$O(N + M)$
