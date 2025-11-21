@@ -6,7 +6,7 @@ https://codeforces.com/contest/2172/problem/A
 </details>
 <details>
     <summary>Solution</summary>
-JUst sort it and check!
+Just sort it and check!
 </details>
 
 ### Time Complexity
