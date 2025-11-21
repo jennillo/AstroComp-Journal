@@ -10,4 +10,4 @@ Sort all elements in array $a$ then just check the maximum value of every two ad
 </details>
 
 ### Time Complexity
-O(N log N)
+$O(N \text{ log } N)$
