@@ -12,4 +12,4 @@ $2 \cdot (\text{parity of the number of -1s}) + (\text{number of zeros})$
 </details>
 
 ### Time Complexity
-O(N)
+$O(N)$
