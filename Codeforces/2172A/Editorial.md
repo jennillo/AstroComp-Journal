@@ -10,4 +10,4 @@ Just sort it and check!
 </details>
 
 ### Time Complexity
-O(1)
+$O(1)$
